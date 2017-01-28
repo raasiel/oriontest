@@ -1,3 +1,4 @@
+@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,300italic,400italic,600italic);
 BODY
 {
 	BACKGROUND-COLOR: #f7f7f7 !important;
@@ -20,14 +21,14 @@ BODY.clsBody
     WIDTH: 100pc;
     BACKGROUND-REPEAT: repeat;
     BACKGROUND-COLOR: #ffffff
-	FONT-FAMILY: Arial, Verdana
+	FONT-FAMILY: 'Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif
 }
 A.link {
     FONT-WEIGHT: bolder;
     FONT-SIZE: 9pt;
     COLOR: RED;
     FONT-STYLE: normal;
-    FONT-FAMILY: Arial, Verdana;
+    FONT-FAMILY: 'Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif;
     FONT-VARIANT: normal;
 }
 A.visited {
@@ -35,7 +36,7 @@ A.visited {
     FONT-SIZE: 9pt;
     COLOR:RED;
     FONT-STYLE: normal;
-    FONT-FAMILY: Arial, Verdana;
+    FONT-FAMILY: 'Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif;
     FONT-VARIANT: normal;
    
 
@@ -45,19 +46,19 @@ A.hover {
     FONT-SIZE: 9pt;
     COLOR: RED;
     FONT-STYLE: normal;
-    FONT-FAMILY: Arial, Verdana;
+    FONT-FAMILY: 'Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif;
     FONT-VARIANT: normal;
 }
 H1
 {
     FONT-SIZE: 18pt;
-    FONT-FAMILY: Arial, Verdana
+    FONT-FAMILY: 'Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif
 }
 H2
 {
     FONT-SIZE: 16pt;
     COLOR: #008080;
-    FONT-FAMILY: Arial, Verdana
+    FONT-FAMILY: 'Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif
 }
 H4
 {
@@ -65,7 +66,7 @@ H4
     FONT-SIZE: 12pt;
     TEXT-TRANSFORM: capitalize;
     COLOR: black;
-    FONT-FAMILY: Arial, Verdana
+    FONT-FAMILY: 'Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif
 }
 H3
 {
@@ -73,7 +74,7 @@ H3
     FONT-SIZE: 15pt;
     TEXT-TRANSFORM: capitalize;
     COLOR: #ffffff;
-    FONT-FAMILY: Arial, Verdana
+    FONT-FAMILY: 'Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif
 }
 TABLE.clsSearchTable
 {
@@ -89,7 +90,7 @@ TABLE.clsSearchTable
     FONT-WEIGHT: bold;
     FONT-SIZE: 9pt;
     COLOR: black;
-    FONT-FAMILY: Arial, Verdana;
+    FONT-FAMILY: 'Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif;
     TEXT-DECORATION: none
 }
 .clsNoRecord
@@ -97,7 +98,7 @@ TABLE.clsSearchTable
     FONT-WEIGHT: bold;
     FONT-SIZE: 9pt;
     COLOR: black;
-    FONT-FAMILY: Arial, Verdana
+    FONT-FAMILY: 'Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif
 }
 TABLE{
     border-color: #ccc;
@@ -126,7 +127,7 @@ TH.pgCmdTH
     BORDER-LEFT: medium none;
     COLOR: white;
     BORDER-BOTTOM: medium none;
-    FONT-FAMILY: Arial;
+    FONT-FAMILY: 'Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif;
     BACKGROUND-COLOR: #0069b3;
     TEXT-ALIGN: center;
     TEXT-DECORATION: none
@@ -135,7 +136,7 @@ TH.pgCmdTH
 TH.gridHdrTHDate
 {
     color: #FFFFFF;
-    font-family: verdana;
+    font-family: 'Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif;
     font-weight: bold;
     BACKGROUND-COLOR: #f69c55 !important;
 }
@@ -144,7 +145,7 @@ TH.gridCenterHdrTHSmall
 {
     FONT-SIZE: 7pt;
     COLOR: white;
-    FONT-FAMILY: Arial, Verdana;
+    FONT-FAMILY: 'Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif;
     BACKGROUND-COLOR: #f69c55 !important;
     TEXT-ALIGN: right
 }
@@ -153,14 +154,14 @@ TD.pgHdrTD
     FONT-WEIGHT: bold;
     FONT-SIZE: 13px;
     COLOR: #ff7f00 !important;
-    FONT-FAMILY: Verdana, Arial, Helvetica
+    FONT-FAMILY: 'Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif
 }
 H1.clsSubHdr
 {
     FONT-SIZE: 15pt;
     COLOR: #9a1310;
     FONT-STYLE: italic;
-    FONT-FAMILY: Times New Roman
+    FONT-FAMILY: 'Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif
 }
 TD.clsSubHdr
 {
@@ -168,7 +169,7 @@ TD.clsSubHdr
     FONT-SIZE: 12pt;
     COLOR: black;
     FONT-STYLE: normal;
-    FONT-FAMILY: Times New Roman;
+    FONT-FAMILY: 'Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif;
     TEXT-ALIGN: left
 }
 TD.clsPopHdr
@@ -176,7 +177,7 @@ TD.clsPopHdr
     FONT-SIZE: 15pt;
     COLOR: white;
     FONT-STYLE: normal;
-    FONT-FAMILY: Arial;
+    FONT-FAMILY: 'Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif;
     BACKGROUND-COLOR: #0069b3;
     TEXT-ALIGN: center;
     TEXT-DECORATION: none
@@ -185,7 +186,7 @@ TD.pgPopHdrTD
 {
     FONT-SIZE: 15pt;
     FONT-STYLE: italic;
-    FONT-FAMILY: Times New Roman;
+    FONT-FAMILY: 'Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif;
     TEXT-ALIGN: right
 }
 
@@ -194,7 +195,7 @@ TD.pgPopHdrTD
     FONT-SIZE: 8pt;
     COLOR: Red;
     FONT-STYLE: normal;
-    FONT-FAMILY: Arial;
+    FONT-FAMILY: 'Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif;
     FONT-VARIANT: normal
 }
 
@@ -203,7 +204,7 @@ TD.pgPopHdrTD
     FONT-SIZE: 8pt;
     COLOR: blue;
     FONT-STYLE: normal;
-    FONT-FAMILY: Verdana;
+    FONT-FAMILY: 'Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif;
     FONT-VARIANT: normal
 }
 
@@ -211,7 +212,7 @@ TD.HRgridDataTD
 {
     FONT-SIZE: 8pt;
     COLOR: black;
-    FONT-FAMILY: Arial, Verdana
+    FONT-FAMILY: 'Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif
 }
 .captionLbl
 {
@@ -222,7 +223,7 @@ TD.HRgridDataTD
     BORDER-LEFT: medium none;
     COLOR: #0069b3;
     FONT-STYLE: normal;
-    FONT-FAMILY: Arial, Verdana;
+    FONT-FAMILY: 'Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif;
     FONT-VARIANT: normal;
     TEXT-DECORATION: none
 }
@@ -241,7 +242,7 @@ HR.clsHR
     FONT-SIZE: 8pt;
     COLOR: #000000;
     FONT-STYLE: normal;
-    FONT-FAMILY: Verdana;
+    FONT-FAMILY: 'Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif;
     FONT-VARIANT: normal
 }
 .LblFontMand
@@ -250,7 +251,7 @@ HR.clsHR
     FONT-SIZE: 8pt;
     COLOR: #000000;
     FONT-STYLE: normal;
-    FONT-FAMILY: Verdana;
+    FONT-FAMILY: 'Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif;
     FONT-VARIANT: normal;    
 }
 .LblFontUnderLine
@@ -259,7 +260,7 @@ HR.clsHR
     FONT-SIZE: 8pt;
     COLOR: #ce8414 !important;
     FONT-STYLE: normal;
-    FONT-FAMILY: Verdana;
+    FONT-FAMILY: 'Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif;
     FONT-VARIANT: normal;
     TEXT-DECORATION: underline
 }
@@ -269,7 +270,7 @@ HR.clsHR
     FONT-SIZE: 8pt;
     COLOR: #2359C8;
     FONT-STYLE: normal;
-    FONT-FAMILY: Verdana;
+    FONT-FAMILY: 'Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif;
     FONT-VARIANT: normal;
     TEXT-DECORATION: underline
 }
@@ -279,7 +280,7 @@ HR.clsHR
     FONT-SIZE: 8pt;
     COLOR: #2359C8;
     FONT-STYLE: normal;
-    FONT-FAMILY: Verdana;
+    FONT-FAMILY: 'Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif;
     FONT-VARIANT: normal;
   
 }
@@ -289,7 +290,7 @@ HR.clsHR
     FONT-SIZE: 8pt;
     COLOR: #ff7f00 !important;
     FONT-STYLE: normal;
-    FONT-FAMILY: Verdana;
+    FONT-FAMILY: 'Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif;
     FONT-VARIANT: normal
 }
 .HRLblFontMand
@@ -298,7 +299,7 @@ HR.clsHR
     FONT-SIZE: 9pt;
     COLOR: RED;
     FONT-STYLE: normal;
-    FONT-FAMILY: Arial;
+    FONT-FAMILY: 'Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif;
     FONT-VARIANT: normal
 }
 .LblCommonFont
@@ -306,7 +307,7 @@ HR.clsHR
     FONT-SIZE: 9pt;
     COLOR: #1B5890;
     FONT-STYLE: normal;
-    FONT-FAMILY: Arial;
+    FONT-FAMILY: 'Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif;
     FONT-VARIANT: normal
 }
 FORM.frmImage
@@ -324,7 +325,7 @@ TD.pgMsgPopHdrTD
     FONT-SIZE: 15pt;
     WIDTH: 100pc;
     COLOR: #0069b3;
-    FONT-FAMILY: Arial;
+    FONT-FAMILY: 'Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif;
     TEXT-ALIGN: center
 }
 DIV.DivHdr
@@ -338,14 +339,14 @@ DIV.DivHdr
     FONT-WEIGHT: bolder;
     FONT-SIZE: 9pt;
     COLOR: black;
-    FONT-FAMILY: Arial;
+    FONT-FAMILY: 'Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif;
     BACKGROUND-COLOR: transparent
 }
 .txtHeader
 {
     FONT-WEIGHT: bolder;
     COLOR: white;
-    FONT-FAMILY: Arial;
+    FONT-FAMILY: 'Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif;
     BACKGROUND-COLOR: #6b9aff
 }
 DIV.hiddenTableGrid
@@ -359,7 +360,7 @@ TR.gridTDCSummaryRowTR
 {
     FONT-SIZE: 8pt;
     COLOR: #000000;
-    FONT-FAMILY: Arial, Verdana;
+    FONT-FAMILY: 'Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif;
     BACKGROUND-COLOR: #c0c0c0;
     TEXT-ALIGN: left
 }
@@ -367,21 +368,21 @@ TH.gridRightHdrTH
 {
     FONT-SIZE: 10pt;
     COLOR: white;
-    FONT-FAMILY: Arial, Verdana;
+    FONT-FAMILY: 'Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif;
     BACKGROUND-COLOR: #0069b3
 }
 TH.gridLeftHdrTH
 {
     FONT-SIZE: 10pt;
     COLOR: white;
-    FONT-FAMILY: Arial, Verdana;
+    FONT-FAMILY: 'Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif;
     BACKGROUND-COLOR: #0069b3
 }
 TH.gridCenterHdrTH
 {
     FONT-SIZE: 10pt;
     COLOR: white;
-    FONT-FAMILY: Arial, Verdana;
+    FONT-FAMILY: 'Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif;
     BACKGROUND-COLOR: #0069b3
 } 
 
@@ -398,7 +399,7 @@ TD.tdRecCount
     FONT-WEIGHT: bolder;
     FONT-SIZE: 8pt;
     COLOR: black;
-    FONT-FAMILY: Arial
+    FONT-FAMILY: 'Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif
 }
 TABLE.clsTableBgColor
 {
@@ -431,7 +432,7 @@ DIV.gridDataDiv
 {
     FONT-SIZE: 8pt;
     COLOR: black;
-    FONT-FAMILY: Arial, Verdana
+    FONT-FAMILY: 'Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif
 }
 DIV.DivGrid
 {
@@ -450,14 +451,14 @@ DIV.linkDataDiv
 {
     FONT-SIZE: 8pt;
     COLOR: blue;
-    FONT-FAMILY: Arial, Verdana;
+    FONT-FAMILY: 'Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif;
     HEIGHT: 8pt
 }
 TD.gridErrorDataTD
 {
     FONT-SIZE: 8pt;
     COLOR: red;
-    FONT-FAMILY: Arial, Verdana
+    FONT-FAMILY: 'Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif
 }
 FIELDSET.clsFieldSet
 {
@@ -515,7 +516,7 @@ DIV.DivGridFieldSet
     FONT-SIZE: 8pt;
     COLOR: black;
     FONT-STYLE: italic;
-    FONT-FAMILY: Verdana
+    FONT-FAMILY: 'Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif
 }
 
 
@@ -524,25 +525,25 @@ DIV.DivGridFieldSet
    color: #5870BB;
    font-size: 13px;
    font-weight: bold;
-   font-family: Verdana, Arial, Helvetica
+   font-family: 'Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif
 }
 
 .status_left {color: #000000;
 font-size: 12px;
 font-weight: bold;
-font-family: Verdana, Arial, Helvetica}
+font-family: 'Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif}
 
 .status_right {color: #000000;
 font-size: 12px;
 font-weight: bold;
-font-family: Verdana, Arial, Helvetica}
+font-family: 'Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif}
 
 .nav
 {
  color: #004936;
  font-size: 10px;
  font-weight: bold;
- font-family: Verdana, Arial, Helvetica
+ font-family: 'Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif
 }
 HR
 {
@@ -556,7 +557,7 @@ HR
  color: #FFFFFF;
  font-size: 10px;
  font-weight: bold;
- font-family: Verdana, Arial, Helvetica
+ font-family: 'Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif
 }
 .clsChildDiv
 {
@@ -574,7 +575,7 @@ textarea{
 {
     TEXT-DECORATION: none;
     COLOR:"#deff90";
-    FONT-FAMILY: 'verdana';
+    FONT-FAMILY: 'Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif';
     FONT-SIZE: 10px;
     FONT-VARIANT: normal;
     TEXT-TRANSFORM: capitalize
@@ -585,14 +586,14 @@ textarea{
  color: #FFFFFF;
  font-size: 10px;
  font-weight: bold;
- font-family: Verdana, Arial, Helvetica
+ font-family: 'Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif
 
 }
 .clsTitle
 {
     TEXT-DECORATION: none;
     COLOR:"#3052EC";
-    FONT-FAMILY: 'Arial';
+    FONT-FAMILY: 'Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif;
     FONT-SIZE: 14px;
     FONT-VARIANT: normal
     
@@ -602,7 +603,7 @@ textarea{
 {
     TEXT-DECORATION: none;
     COLOR: "#a9aeb4";
-    FONT-FAMILY: 'verdana';
+    FONT-FAMILY: 'Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif;
     FONT-SIZE: 10px;
     FONT-VARIANT: normal;
     TEXT-TRANSFORM: capitalize
@@ -611,25 +612,25 @@ textarea{
 #errorHeading {
 	background-color:white;
 	color:red;
-	font-family:arial;
+	font-family:'Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif;
 	font-size:12;
 }
 #warnHeading {
 	background-color:white;
 	color:blue;
-	font-family:arial;
+	font-family:'Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif;
 	font-size:12;
 }
 #infoHeading {
 	background-color:white;
 	color:black;
-	font-family:arial;
+	font-family:'Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif;
 	font-size:12;
 }
 #sessionHeading {
 	background-color:white;
 	color:blue;
-	font-family:arial;
+	font-family:'Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif;
 	font-size:medium;
 	font-weight:bold;
 }
@@ -649,17 +650,17 @@ A.A_Tab:hover {
 	COLOR: #000000; TEXT-DECORATION: underline
 }
 .form_tab_on {
-	COLOR: #565e62; FONT-FAMILY: Arial, Verdana; FONT-SIZE: 11px; PADDING-BOTTOM: 0px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; PADDING-TOP: 0px
+	COLOR: #565e62; FONT-FAMILY: 'Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif; FONT-SIZE: 11px; PADDING-BOTTOM: 0px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; PADDING-TOP: 0px
 }
 .form_tab_off {
-	COLOR: #002a3e; FONT-FAMILY: Arial, Verdana; FONT-SIZE: 11px; PADDING-BOTTOM: 0px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; PADDING-TOP: 0px
+	COLOR: #002a3e; FONT-FAMILY: 'Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif; FONT-SIZE: 11px; PADDING-BOTTOM: 0px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; PADDING-TOP: 0px
 }
 
 TD.gridMsgTD
 {
     FONT-SIZE: 8pt;
     COLOR: black; 
-    FONT-FAMILY:  Verdana ,Arial ;
+    FONT-FAMILY:  'Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif;
     BACKGROUND-COLOR: #F4F4F4;
     PADDING-BOTTOM: 1px; PADDING-LEFT: 1px; PADDING-RIGHT: 1px; PADDING-TOP: 1px;   
 }
@@ -668,12 +669,12 @@ TH.TitleHdrTH
 {
     FONT-SIZE: 10pt;
     COLOR: #deff90;
-    FONT-FAMILY: Arial, Verdana;
+    FONT-FAMILY: 'Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif;
     BACKGROUND-COLOR: #32469a
 }
 .LoginHeading
 {
-	font-family: verdana,sans-serif;
+	font-family: 'Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif;
 	color: #FFFFFF;
 	font-weight: bolder;
 	font-size: 15px;
@@ -711,7 +712,7 @@ TH.gridHdrTH
     border-style: solid;
 	padding-right: 4px;
 	padding-left: 4px;
-	font-family: verdana,sans-serif;
+	font-family: 'Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif;
 	color : #FFFFFF;
 	font-weight: bolder;
 	font-size: 11px;
@@ -728,7 +729,7 @@ TD.gridDataTD
 	border-width:1px;
 	padding-right: 4px;
 	padding-left: 4px;
-	font-family: verdana,sans-serif;
+	font-family: 'Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif;
 	color : #000000;
 	font-weight: noraml;
 	font-size: 10px;
@@ -739,7 +740,7 @@ TD.gridMsgTD
 {
     FONT-SIZE: 8pt;
     COLOR: black; 
-    FONT-FAMILY:  Verdana;
+    FONT-FAMILY:  'Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif;
     BACKGROUND-COLOR: #F4F4F4;
     PADDING-BOTTOM: 1px; PADDING-LEFT: 1px; PADDING-RIGHT: 1px; PADDING-TOP: 1px;   
 }
@@ -747,7 +748,7 @@ TD.gridMsgTD
 /* ---------- forms ---------- */
 
 input {
-	font-family: verdana,sans-serif;	
+	font-family:'Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif;	
 	height:18px;
 	font-size:11px;
 }
@@ -771,7 +772,7 @@ input.action {
     border-radius: 3px;
     box-shadow: none;
 	color: #FFFFFF;
-	font-family: Verdana,Arial,Helvetica, sans-serif;
+	font-family: 'Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif;
 	font-weight: bold;
 	cursor: hand;
 }
@@ -787,7 +788,7 @@ input.login {
 	border: 1px solid #e0c985;
 	background-color: #c69d11;
 	color: #FFFFFF;
-	font-family: verdana,sans-serif;
+	font-family: 'Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif;
 	cursor: hand;
 }
 
@@ -795,19 +796,19 @@ input.softaction {
 	border: 1px solid #999999;
 	background-color: #e2e2e2;
 	color: #4A4A4A;
-	font-family: verdana,sans-serif;
+	font-family: 'Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif;
 	cursor: hand;
 }
 
 textarea 
 {
-	font-family: verdana,sans-serif;
+	font-family: 'Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif;
 	font-size:11px;
     border :1px solid #ccc;
 }
 
 select {
-	font-family: verdana,sans-serif;
+	font-family: 'Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif;
 	font-size: 11px;
 } 
 
@@ -931,13 +932,12 @@ TH.gH
 .LblFontMandUnderlineItalics
 {
     COLOR: #7A7A7A;
-    FONT-FAMILY: Verdana;
+    FONT-FAMILY: 'Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif;
     FONT-VARIANT: normal;
     TEXT-DECORATION: underline;
     FONT-WEIGHT: bolder;
     FONT-SIZE: 8pt;
     FONT-STYLE: italic;
-    FONT-FAMILY: Verdana
 }
 
 TD.screenGroupTD
@@ -945,7 +945,7 @@ TD.screenGroupTD
 	background-color: #D4E2FC;
 	padding-right: 4px;
 	padding-left: 4px;
-	font-family: verdana,sans-serif;
+	font-family:'Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif;
 	color : #000000;
 	font-weight: bolder;
 	font-size: 12px;
@@ -957,7 +957,7 @@ TD.screenNameTD
 	text-indent: 15px;
    	padding-right: 4px;
 	padding-left: 4px;
-	font-family: verdana,sans-serif;
+	font-family: 'Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif;
 	color : #000000;
 	font-weight: noraml;
 	font-size: 11px;
@@ -980,7 +980,7 @@ TD.blueMiddle
 TD.grayBack
 {
 	text-align: right;
-	font-family: verdana,sans-serif;
+	font-family: 'Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif;
 	color: #254181;
 	font-weight: bold;
 	text-indent: 10px;
@@ -994,7 +994,7 @@ TD.blueBack
 }
 .ScreenName
 {
-	font-family: verdana,sans-serif;
+	font-family: 'Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif;
 	color : #5682DB;
 	font-weight: bolder;
 	font-size: 13px;
@@ -1024,7 +1024,7 @@ a.defaultfunctional, a.defaultfunctional:visited, a.defaultfunctional:link, a.de
     FONT-SIZE: 7pt;
     COLOR: #8C0B05;
     FONT-STYLE: normal;
-    FONT-FAMILY: Verdana;
+    FONT-FAMILY: 'Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif;
     FONT-VARIANT: normal;    
 }
 
